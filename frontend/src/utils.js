@@ -1,1 +1,0 @@
-export const BACKEND_URL = "https://daily-muse-com.onrender.com"
